@@ -5,6 +5,7 @@ Link to my Profile in Codingame: Q12 - https://www.codingame.com/profile/b683bbb
 
 # Hard challenges:
 - Super Computer: https://www.codingame.com/training/hard/super-computer
+- Adversarial Mate with Rook: https://www.codingame.com/training/hard/adversarial-mate-with-rook
 
 # Very Hard challenges:
 - The Resistance: https://www.codingame.com/training/expert/the-resistance
