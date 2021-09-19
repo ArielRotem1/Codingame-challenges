@@ -3,6 +3,8 @@ Codingame challenges solved by me.
 
 Link to my Profile in Codingame: Q12 - https://www.codingame.com/profile/b683bbb0b3a4c1d61f3ac36f8201d98a6101573
 
+# Hard challenges:
+- Super Computer: https://www.codingame.com/training/hard/super-computer
 
 # Very Hard challenges:
 - The Resistance: https://www.codingame.com/training/expert/the-resistance
