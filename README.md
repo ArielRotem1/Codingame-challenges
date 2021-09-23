@@ -10,6 +10,8 @@ Link to my Profile in Codingame: Q12 - https://www.codingame.com/profile/b683bbb
 - Thomas and the Freight Cars: https://www.codingame.com/training/hard/thomas-and-the-freight-cars
 - Don't Panic - Episode 2: https://www.codingame.com/training/hard/don't-panic-episode-2
 - Sokoban: https://www.codingame.com/training/hard/sokoban
+- https://www.codingame.com/training/hard/there-is-no-spoon-episode-2
+- https://www.codingame.com/training/hard/power-of-thor-episode-2
 
 # Very Hard challenges:
 - The Resistance: https://www.codingame.com/training/expert/the-resistance
