@@ -12,6 +12,10 @@ Link to my Profile in Codingame: Q12 - https://www.codingame.com/profile/b683bbb
 - Sokoban: https://www.codingame.com/training/hard/sokoban
 - There is no Spoon - Episode 2: https://www.codingame.com/training/hard/there-is-no-spoon-episode-2
 - Power of Thor - Episode 2: https://www.codingame.com/training/hard/power-of-thor-episode-2
+- Chess board analyzer: https://www.codingame.com/training/hard/chess-board-analyzer
+- Bender - Episode 2: https://www.codingame.com/training/hard/bender-episode-2
+- Vox Codei - Episode 1: https://www.codingame.com/training/hard/vox-codei-episode-1
+- The Labyrinth: https://www.codingame.com/training/hard/the-labyrinth
 
 # Very Hard challenges:
 - The Resistance: https://www.codingame.com/training/expert/the-resistance
