@@ -16,6 +16,10 @@ Link to my Profile in Codingame: Q12 - https://www.codingame.com/profile/b683bbb
 - Bender - Episode 2: https://www.codingame.com/training/hard/bender-episode-2
 - Vox Codei - Episode 1: https://www.codingame.com/training/hard/vox-codei-episode-1
 - The Labyrinth: https://www.codingame.com/training/hard/the-labyrinth
+- Timer for Clash of Code: https://www.codingame.com/training/hard/timer-for-clash-of-code
+- Chess moves on FEN position: https://www.codingame.com/training/hard/chess-moves-on-fen-position
+- Apple tree: https://www.codingame.com/training/hard/apple-tree
+- Surface: https://www.codingame.com/training/hard/surface
 
 # Very Hard challenges:
 - The Resistance: https://www.codingame.com/training/expert/the-resistance
