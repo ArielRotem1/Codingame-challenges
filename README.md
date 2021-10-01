@@ -20,6 +20,10 @@ Link to my Profile in Codingame: Q12 - https://www.codingame.com/profile/b683bbb
 - Chess moves on FEN position: https://www.codingame.com/training/hard/chess-moves-on-fen-position
 - Apple tree: https://www.codingame.com/training/hard/apple-tree
 - Surface: https://www.codingame.com/training/hard/surface
+- Mystery sums: https://www.codingame.com/training/hard/mystery-sums
+- Test before Validate!: https://www.codingame.com/training/hard/test-before-validate!
+- Winamax Sponsored Contest: https://www.codingame.com/training/hard/winamax-sponsored-contest
+- Mini sudoku solver: https://www.codingame.com/training/hard/mini-sudoku-solver
 
 # Very Hard challenges:
 - The Resistance: https://www.codingame.com/training/expert/the-resistance
